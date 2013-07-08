@@ -2,5 +2,5 @@
     {
         "caption": "WordPress Generate Salt Keys",
         "command": "wordpress_generate_salts"
-    },
+    }
 ]
